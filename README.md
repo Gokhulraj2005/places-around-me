@@ -10,6 +10,7 @@ Write your own steps here.
 
 ## Code:
 ### map code
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -27,8 +28,10 @@ Write your own steps here.
 </map>
 </body>
 </html>
+```
 
 ### busstop code
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -42,8 +45,9 @@ KIlambakkam Bus Terminus, officially Kalaignar Centenary Bus Terminus,[1] is und
 </p>
 </body>
 </html>
-
+```
 ### govt code
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -66,8 +70,10 @@ In the 2011 Census, about 73% of the population was literate, with 81% for males
 </p>
 </body>
 </html>
+```
 
 ### SBI code
+```html
 <!DOCTYPE html>
 <html>
     <head>
@@ -83,8 +89,10 @@ The bank descends from the Bank of Calcutta, founded in 1806 via the Imperial Ba
         </p>
     </body>
 </html>
+```
 
 ### sss code
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -120,8 +128,10 @@ In economics, a market is a composition of systems, institutions, procedures, so
 </p>
 </body>
 </html>
+```
 
 ### svv code
+```html
 <!DOCTYPE html>
 <html>
 <head>
@@ -136,7 +146,7 @@ shri SVV matriculation higher sec.school, vandalur, chennai is where my daughter
 </p>
 </body>
 </html>
-
+```
 ## Output:
 
 ### mapoutput
